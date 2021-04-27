@@ -23,15 +23,6 @@
 }
 
 .nav__notification{
-    background-color: tomato;
-    width: 25px;
-    height: 25px;
-    border-radius: 12.5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
     position: absolute;
     left: 20px;
     bottom : 15px;
@@ -47,17 +38,13 @@
     left: 30px;
 }
 
-.nav__notification__chats{
+.nav__notification__3{
     background-color: tomato;
-    width: 25px;
-    height: 25px;
-    border-radius: 12.5px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 600;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    color: tomato;
     position: absolute;
-    left: 20px;
-    bottom : 15px;
+    right: 20px;
+    bottom: 50px;
 }
