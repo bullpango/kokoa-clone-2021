@@ -48,3 +48,15 @@
     right: 20px;
     bottom: 50px;
 }
+
+
+.nav__notification__4{
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    border-radius: 5px;
+    color: tomato;
+    position: absolute;
+    left: 105px;
+    bottom: 80px;
+}
