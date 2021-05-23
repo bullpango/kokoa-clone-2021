@@ -98,8 +98,7 @@
 .open-chat__photo img{
     width:120px;
     height: 120px;
-    border-radius: 10px;
-    
+    border-radius: 10px; 
 }
 
 .open-post__heart-count{
@@ -136,5 +135,5 @@
 
 .open-post__heart-count:hover i{
     will-change: transform;
-    animation: heartBeat 1s linear infinite ;
+    animation: heartBeat 1s linear infinite;
 }
